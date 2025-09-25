@@ -2,7 +2,6 @@ cask "typora@free" do
   version "0.11.18"
   sha256 "cc8c9b07f4584f81b214d4a2cbc270cb1171d7262f0f7ffdd466f8b74b2da38e"
 
-  url "https://www.typora.io/download/Typora-#{version}.dmg"
   url "https://github.com/dindin12138/homebrew-din/releases/download/20250925/Typora-#{version}.dmg"
   name "Typora"
   desc "Configurable document editor that supports Markdown"
